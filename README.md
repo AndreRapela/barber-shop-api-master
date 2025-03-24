@@ -6,7 +6,7 @@
       src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/logo.webp" 
       width="100px" 
     />
-    <h1>barber-shop-ui</h1>
+    <h1>barber-shop-api</h1>
   </p>
 </div>
 <!--END_SECTION:header-->
@@ -29,7 +29,7 @@
     </td>
     <td colspan="3">
     <p>🎉 3y+ em desenvolvimento Backend Java.
-    👨‍💻 Foco em back-ends
+    👨‍💻 FullStack developer
     </p>
       <a 
       href="https://www.linkedin.com/in/andrerapela/" 
